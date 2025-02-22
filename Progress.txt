@@ -1,0 +1,3 @@
+Currently working on learning/familiarizing myself with JavaScript (Node.js & React.js), SQL (Postgres), and AWS.
+
+This project will be built using Python, Node.js, React.js, AWS, and SQL.
